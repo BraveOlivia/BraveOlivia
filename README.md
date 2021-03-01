@@ -4,7 +4,7 @@ Here is Olivia. I am an enthusiastic front-end developer with background of 4 ye
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BraveOlivia&count_private=true&show_icons=true&hide=stars,prs,issues&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BraveOlivia)](https://github.com/BraveOlivia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BraveOlivia&layout=compact)](https://github.com/BraveOlivia/github-readme-stats)
 
 <!--
 **BraveOlivia/BraveOlivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
