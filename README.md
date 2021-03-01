@@ -6,6 +6,10 @@ Here is Olivia. I am an enthusiastic front-end developer with background of 4 ye
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BraveOlivia&layout=compact&theme=merko)](https://github.com/BraveOlivia/github-readme-stats)
 
+
+![](https://komarev.com/ghpvc/?username=BraveOlivia&color=green&label=PROFILE+VIEWS)
+
+
 <!--
 **BraveOlivia/BraveOlivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
