@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Here is Olivia. I am an enthusiastic front-end developer with background of 4 years digital marketing experience. 
+
 <!--
 **BraveOlivia/BraveOlivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
