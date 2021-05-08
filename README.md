@@ -1,18 +1,16 @@
 Hi there 👋
 
-Here is Olivia. I am an enthusiastic front-end developer with a background of 4 years of digital marketing experience. I love challenging myself and try new things!
+Here is Olivia. I am an enthusiastic front-end developer with a background of 4 years of digital marketing experience. 
 
 **Skills:** HTML, CSS, JavaScript(NodeJS), Java(JUnit), PHP, Python, React, React Native, Git, MySQL, Oracle SQL, MongoDB, Google Cloud(Firebase)
 
 #### Some facts about me:
 
 - 🔭 I’m currently a Master of Information Technology student
-- 🌱 I’m learning JavaScript
-- 👯 I’m looking for an opportunity for a Junior Frontend Developer position based in Brisbane
-- 🤔 I’m looking for help with code review
+- 👯 I’m looking for an opportunity for a Junior Frontend Developer based in Brisbane
 - 📫 How to reach me: jiangqiangsay@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am running an independent blog
+- ⚡ Fun fact: I am also a blogger and a digital marketer
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BraveOlivia&count_private=true&show_icons=true&hide=stars,prs,issues&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
