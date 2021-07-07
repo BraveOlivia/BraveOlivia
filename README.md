@@ -1,14 +1,15 @@
 Hi there 👋
 
-Here is Olivia. I am an enthusiastic front-end developer with a background of 4 years of digital marketing experience. 
+Here is Olivia. I am an enthusiastic graduate developer with a deep understanding of businesses. 
 
 **Skills:** HTML, CSS, JavaScript(NodeJS), Java(JUnit), PHP, Python, React, React Native, Git, MySQL, Oracle SQL, MongoDB, Google Cloud(Firebase)
 
 #### Some facts about me:
 
-- 🔭 I’m currently a Master of Information Technology student
-- 👯 I’m looking for an opportunity for a Junior Frontend Developer based in Brisbane
-- 📫 How to reach me: jiangqiangsay@gmail.com
+- 🔭 A fresh Master of Information Technology graduate
+- 👯 Open to opportunities of Full-stack Developer
+- 📍 Brisbane, Australia
+- 📫 jiangqiangsay@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am also a blogger and a digital marketer
 
